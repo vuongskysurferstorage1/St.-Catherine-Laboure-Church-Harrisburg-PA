@@ -2,29 +2,13 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-360-view-of-st-catherine-laboure-harrisburg-pa-exterior-1",
-      "name": "",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -44,29 +28,13 @@ var APP_DATA = {
     },
     {
       "id": "1-360-view-of-st-catherine-laboure-harrisburg-pa-exterior-2",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Exterior 2",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -92,29 +60,13 @@ var APP_DATA = {
     },
     {
       "id": "2-360-view-of-st-catherine-laboure-harrisburg-pa-interior-1",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Interior 1",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -140,29 +92,13 @@ var APP_DATA = {
     },
     {
       "id": "3-360-view-of-st-catherine-laboure-harrisburg-pa-interior-2",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Interior 2",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -194,29 +130,13 @@ var APP_DATA = {
     },
     {
       "id": "4-360-view-of-st-catherine-laboure-harrisburg-pa-interior-3",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Interior 3",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -248,29 +168,13 @@ var APP_DATA = {
     },
     {
       "id": "5-360-view-of-st-catherine-laboure-harrisburg-pa-interior-4",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Interior 4",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
@@ -302,29 +206,13 @@ var APP_DATA = {
     },
     {
       "id": "6-360-view-of-st-catherine-laboure-harrisburg-pa-interior-5",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Interior 5",
+      "name": "", // Title removed
       "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        },
-        {
-          "tileSize": 512,
-          "size": 4096
-        }
+        { "tileSize": 256, "size": 256, "fallbackOnly": true },
+        { "tileSize": 512, "size": 512 },
+        { "tileSize": 512, "size": 1024 },
+        { "tileSize": 512, "size": 2048 },
+        { "tileSize": 512, "size": 4096 }
       ],
       "faceSize": 3000,
       "initialViewParameters": {
