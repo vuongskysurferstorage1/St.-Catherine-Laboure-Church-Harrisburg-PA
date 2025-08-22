@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-360-view-of-st-catherine-laboure-harrisburg-pa-exterior-1",
-      "name": "360 View of St. Catherine Laboure Harrisburg PA Exterior 1",
+      "name": "",
       "levels": [
         {
           "tileSize": 256,
